@@ -1,5 +1,5 @@
 <?php
-echo "hello Dunia tipu 5juta 50000000000000000000000";
+echo "hello Dunia tipu 500s0s00s0s0juta 50000000000000000000000";
 $link = mysqli_connect("172.21.0.2","root","root", "trucorp-db");
 if (!$link){
 echo "tidak bisa konek ke MySQL" . PHP_EOL;
