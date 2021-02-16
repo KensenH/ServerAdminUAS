@@ -1,5 +1,5 @@
 <?php
-echo "BISA euy 2";
+echo "BISA euy 3";
 $link = mysqli_connect("172.21.0.2","root","root", "trucorp-db");
 if (!$link){
 echo "tidak bisa konek ke MySQL" . PHP_EOL;
